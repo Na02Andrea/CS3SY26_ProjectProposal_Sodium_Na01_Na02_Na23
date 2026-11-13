@@ -56,7 +56,9 @@ class User FUNCTIONS:
 
 -access_shartshop()
 
--change_shart_equipped()
++change_shart_equipped()
+
++change_name()
 
 
 
@@ -74,6 +76,14 @@ class ShartShop FUNCTIONS:
 
 +purchase()
 
++get_list_of_upgrades_to_buy()
+
++set_list_of_upgrades_to_buy()
+
++get_list_of_sharts_to_buy()
+
++set_list_of_sharts_to_buy()
+
 *User can purchase Upgrades and Sharts from the ShartShop, and it will be taken into effect and added to the User's respective list
 
 
@@ -86,10 +96,8 @@ class GeneralUpgrades ATTRIBUTES:
 -tier_powers
 
 *different upgrade variants will be inherited from GeneralUpgrade but will have their own upgrade_name and tier_powers
-*List of upgrades [tiers 1-5]
-  -additional shartcoins per click (1 shartcoin at tier 1) (increases by 1 per tier bought)
-  -shartcoins boost (6 seconds) (increases by 1 second each tier bought)
-  -autoshart (no autoshart at tier 1) (1 second interval) (decreases by 0.15 seconds per tier bought)
+
+*List of upgrades [tiers 1-5]: additional shartcoins per click (1 shartcoin at tier 1) (increases by 1 per tier bought), shartcoins boost (6 seconds) (increases by 1 second each tier bought), autoshart (no autoshart at tier 1) (1 second interval) (decreases by 0.15 seconds per tier bought)
 
 
 
