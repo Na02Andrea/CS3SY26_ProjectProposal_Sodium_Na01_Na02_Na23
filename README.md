@@ -22,7 +22,7 @@ fdfhdfhfshsdhfhhtrthdfh
 
 "Shart Simulator" will be a game based on Cookie Clicker (by Orteil and Opti) about clicking on Shart, which increases your number of Shartcoins. You can use your Shartcoins to buy upgrades (like an increase in Sharts per Click, instant increase in Shartcoins, automatic Sharts per second, etc), or different types of sharts with different superpowers in the ShartShop. The goal of the game is to collect as much Sharts and earn as much Shartcoins as you can.
 
-We would like to be honest and say that our project is primarily for the use of entertainment. The concept of "shart simulator" is funny despite the poop-theme. It might be weird, but that can be attractive to the right audience. The target audience for this game are gamers. The general need for this is mainly for entertainment or stimulation.
+We would like to be honest and say that our project is primarily for the use of entertainment. The concept of "shart simulator" is funny despite the poop-theme. It might be weird, but that can be attractive to the right audience. The target audience for this game are gamers. The general need for this is mainly for entertainment or stimulation. Though, this application aims to cure the problem of boredom and lack of inspiration. It can teach users facts about feces and why it is very important in the field of STEM, as gross as it sounds like. This would be especially helpful to scholars of STEM.
 
 Below are the following classes, attributes, and functions:
 
@@ -120,8 +120,10 @@ class GeneralShart FUNCTIONS:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+Long-term outcomes of our project include is to inspire the youth on how investing works and demonstrate how money works through entertainment. Another is to highlight the importance of waste in the STEM field and to demonstrate why.
+
+- Objective 1: Demonstrate how money and investing works to the youth.
+- Objective 2: Highlight the importance of waste in the STEM field to scholars.
+- Objective 3: Remain as a source of entertainment for people who like playing simulators.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
