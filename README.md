@@ -22,7 +22,7 @@ fdfhdfhfshsdhfhhtrthdfh
 
 "Shart Simulator" will be a game based on Cookie Clicker (by Orteil and Opti) about clicking on Shart, which increases your number of Shartcoins. You can use your Shartcoins to buy upgrades (like an increase in Sharts per Click, instant increase in Shartcoins, automatic Sharts per second, etc), or different types of sharts with different superpowers in the ShartShop. The goal of the game is to collect as much Sharts and earn as much Shartcoins as you can.
 
-We would like to be honest and say that our project is primarily for the use of entertainment. The concept of "shart simulator" is funny despite the poop-theme. It might be weird, but that can be attractive to the right audience. The target audience for this game are gamers.
+We would like to be honest and say that our project is primarily for the use of entertainment. The concept of "shart simulator" is funny despite the poop-theme. It might be weird, but that can be attractive to the right audience. The target audience for this game are gamers. The general need for this is mainly for entertainment or stimulation.
 
 Below are the following classes, attributes, and functions:
 
