@@ -86,6 +86,10 @@ class GeneralUpgrades ATTRIBUTES:
 -tier_powers
 
 *different upgrade variants will be inherited from GeneralUpgrade but will have their own upgrade_name and tier_powers
+*List of upgrades [tiers 1-5]
+  -additional shartcoins per click (1 shartcoin at tier 1) (increases by 1 per tier bought)
+  -shartcoins boost (6 seconds) (increases by 1 second each tier bought)
+  -autoshart (no autoshart at tier 1) (1 second interval) (decreases by 0.15 seconds per tier bought)
 
 
 
