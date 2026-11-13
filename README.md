@@ -26,6 +26,7 @@ We would like to be honest and say that our project is primarily for the use of 
 
 Below are the following classes, attributes, and functions:
 
+
 class User ATTRIBUTES:
 -name
 +lifetime_shartcoins
@@ -38,19 +39,23 @@ class User ATTRIBUTES:
 
 *spc = shartcoins per click
 
+
 class User FUNCTIONS:
 -access_shartshop()
 -change_shart_equipped()
+
 
 
 class ShartShop ATTRIBUTES:
 -list_of_upgrades_to_buy
 -list_of_sharts_to_buy
 
+
 class ShartShop FUNCTIONS:
 +purchase()
 
 *User can purchase Upgrades and Sharts from the ShartShop, and it will be taken into effect and added to the User's respective list
+
 
 
 class GeneralUpgrades ATTRIBUTES:
@@ -60,9 +65,11 @@ class GeneralUpgrades ATTRIBUTES:
 *different upgrade variants will be inherited from GeneralUpgrade but will have their own upgrade_name and tier_powers
 
 
+
 class General_Shart ATTRIBUTES:
 -shart_name
 -shart_superpower
+
 
 class GeneralShart FUNCTIONS:
 +enter_sim_gamemode()
