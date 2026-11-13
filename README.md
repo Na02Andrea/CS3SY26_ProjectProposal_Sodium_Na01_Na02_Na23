@@ -117,6 +117,9 @@ class GeneralShart FUNCTIONS:
 
 *different Shart variants will be inherited from GeneralShart but will have their own shart_name and shart_superpower
 
+<img width="1686" height="483" alt="image" src="https://github.com/user-attachments/assets/aec93497-a8a1-4473-b7c4-ec48b9c9f7ef" />
+
+
 
 
 
