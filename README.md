@@ -24,6 +24,52 @@ fdfhdfhfshsdhfhhtrthdfh
 
 We would like to be honest and say that our project is primarily for the use of entertainment. The concept of "shart simulator" is funny despite the poop-theme. It might be weird, but that can be attractive to the right audience. The target audience for this game are gamers.
 
+Below are the following classes, attributes, and functions:
+
+class User ATTRIBUTES:
+-name
++lifetime_shartcoins
++current_no_of_shartcoins
+-shart_equipped
++current_spc*
+-list_of_achievements
++list_of_sharts_owned
++list_of_upgrades
+
+*spc = shartcoins per click
+
+class User FUNCTIONS:
+-access_shartshop()
+-change_shart_equipped()
+
+
+class ShartShop ATTRIBUTES:
+-list_of_upgrades_to_buy
+-list_of_sharts_to_buy
+
+class ShartShop FUNCTIONS:
++purchase()
+
+*User can purchase Upgrades and Sharts from the ShartShop, and it will be taken into effect and added to the User's respective list
+
+
+class GeneralUpgrades ATTRIBUTES:
+-upgrade_name
+-tier_powers
+
+*different upgrade variants will be inherited from GeneralUpgrade but will have their own upgrade_name and tier_powers
+
+
+class General_Shart ATTRIBUTES:
+-shart_name
+-shart_superpower
+
+class GeneralShart FUNCTIONS:
++enter_sim_gamemode()
+
+*different Shart variants will be inherited from GeneralShart but will have their own shart_name and shart_superpower
+
+
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
