@@ -27,6 +27,8 @@ We would like to be honest and say that our project is primarily for the use of 
 Below are the following classes, attributes, and functions:
 
 
+
+
 class User ATTRIBUTES:
 
 -name
@@ -48,6 +50,8 @@ class User ATTRIBUTES:
 *spc = shartcoins per click
 
 
+
+
 class User FUNCTIONS:
 
 -access_shartshop()
@@ -65,12 +69,14 @@ class ShartShop ATTRIBUTES:
 
 
 
+
 class ShartShop FUNCTIONS:
 
 +purchase()
 
 
 *User can purchase Upgrades and Sharts from the ShartShop, and it will be taken into effect and added to the User's respective list
+
 
 
 
@@ -85,11 +91,13 @@ class GeneralUpgrades ATTRIBUTES:
 
 
 
+
 class General_Shart ATTRIBUTES:
 
 -shart_name
 
 -shart_superpower
+
 
 
 
@@ -99,6 +107,8 @@ class GeneralShart FUNCTIONS:
 
 
 *different Shart variants will be inherited from GeneralShart but will have their own shart_name and shart_superpower
+
+
 
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
